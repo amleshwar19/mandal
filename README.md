@@ -1,4 +1,4 @@
-# Mandal General Store
+# Mandal
 
 A responsive grocery e-commerce website in a single self-contained `index.html` (no dependencies).
 
@@ -12,4 +12,4 @@ A responsive grocery e-commerce website in a single self-contained `index.html` 
 
 To add products, edit the `PRODUCTS` array in `index.html` (near `var PRODUCTS = [`).
 
-Live: https://amleshwar19.github.io/mandal-general-store/
+Live: https://amleshwar19.github.io/mandal/
